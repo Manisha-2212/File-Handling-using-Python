@@ -1,0 +1,4 @@
+hello, this is file handling using python.
+step1 is to open a file.
+step2 to perform some operations.
+step3 is to close the file
